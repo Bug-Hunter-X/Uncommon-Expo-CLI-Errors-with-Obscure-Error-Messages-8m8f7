@@ -1,0 +1,3 @@
+# Uncommon Expo CLI Errors
+
+This repository demonstrates an uncommon error encountered when using the Expo CLI.  The error lacks specific details, making debugging difficult.  The issue is related to unexpected project setups or dependency conflicts that cause the Expo build process to terminate without clear indications of the problem's origin.  The `uncommonExpoError.js` file shows a project setup that can trigger this issue, while `uncommonExpoSolution.js` offers potential solutions.  Feel free to contribute if you've encountered similar issues and found other effective solutions.
